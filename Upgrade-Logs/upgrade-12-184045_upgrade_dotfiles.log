@@ -1,0 +1,29 @@
+[36m[ACTION](B[m newer version (v2.3.16) is available. Do you want to upgrade? (Y/N)
+[33m[NOTE](B[m /home/phlight/.config/Kvantum-b4-upgrade Backup updated successfully.
+[33m[NOTE](B[m Differences of /home/phlight/.config/Kvantum/ copied successfully.
+[33m[NOTE](B[m /home/phlight/.config/kitty-b4-upgrade Backup updated successfully.
+[33m[NOTE](B[m Differences of /home/phlight/.config/kitty/ copied successfully.
+[33m[NOTE](B[m /home/phlight/.config/hypr-b4-upgrade Backup updated successfully.
+[33m[NOTE](B[m Differences of /home/phlight/.config/hypr/ copied successfully.
+[33m[NOTE](B[m /home/phlight/.config/qt6ct-b4-upgrade Backup updated successfully.
+[33m[NOTE](B[m Differences of /home/phlight/.config/qt6ct/ copied successfully.
+[33m[NOTE](B[m /home/phlight/.config/swaync-b4-upgrade Backup updated successfully.
+[33m[NOTE](B[m Differences of /home/phlight/.config/swaync/ copied successfully.
+[33m[NOTE](B[m /home/phlight/.config/waybar-b4-upgrade Backup updated successfully.
+[33m[NOTE](B[m Differences of /home/phlight/.config/waybar/ copied successfully.
+[33m[NOTE](B[m /home/phlight/.config/rofi-b4-upgrade Backup updated successfully.
+[33m[NOTE](B[m Differences of /home/phlight/.config/rofi/ copied successfully.
+[33m[NOTE](B[m /home/phlight/.config/fastfetch-b4-upgrade Backup updated successfully.
+[33m[NOTE](B[m Differences of /home/phlight/.config/fastfetch/ copied successfully.
+[33m[NOTE](B[m /home/phlight/.config/qt5ct-b4-upgrade Backup updated successfully.
+[33m[NOTE](B[m Differences of /home/phlight/.config/qt5ct copied successfully.
+[33m[NOTE](B[m /home/phlight/.config/ags-b4-upgrade Backup updated successfully.
+[33m[NOTE](B[m Differences of /home/phlight/.config/ags/ copied successfully.
+[33m[NOTE](B[m No changes were made for /home/phlight/.config/nvim/
+[33m[NOTE](B[m /home/phlight/.config/cava-b4-upgrade Backup updated successfully.
+[33m[NOTE](B[m Differences of /home/phlight/.config/cava/ copied successfully.
+[33m[NOTE](B[m /home/phlight/.config/wallust-b4-upgrade Backup updated successfully.
+[33m[NOTE](B[m Differences of /home/phlight/.config/wallust/ copied successfully.
+[33m[NOTE](B[m /home/phlight/.config/wlogout-b4-upgrade Backup updated successfully.
+[33m[NOTE](B[m Differences of /home/phlight/.config/wlogout/ copied successfully.
+[33m[NOTE](B[m Files or directories updated successfully to version v2.3.16
